@@ -1,6 +1,12 @@
 
 # This project is a test for an open role opportunity at InfusionAI
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/image.png" alt="page" title="page" width="45%">
+  <img src="assets/image3.jpeg" alt="page" title="page" width="45%">
+</div>
+<img src="assets/image2.png" alt="page" title="page" width="100%">
+
 Friend AI is a Python-based application that integrates with the WhatsApp Business API to send and receive messages using OpenAI's GPT model. This project aims to create an interactive experience by allowing users to communicate with an AI friend via WhatsApp.
 
 ## Features
