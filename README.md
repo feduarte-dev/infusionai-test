@@ -1,5 +1,5 @@
 
-# This project is a test for an open role opportunity at InfusionAI
+# This project is for educational purposes only, created to explore and learn the technologies that will be used during the test week for a job opportunity.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="assets/image.png" alt="page" title="page" width="45%">
